@@ -1,1 +1,2 @@
 # CodeCrew
+.To create a AI powered website which consits of a chatbot and assigns exams sheets for fegistered students.Our idea of giving quality education to students and providing them with the best possible content for their best study time and give them the best outputs or results possible.This website is a complete respinsive website which consits of chatbot,3D models and many more methods that will be a big help in studying and building a bright future.
